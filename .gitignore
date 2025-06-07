@@ -13,5 +13,3 @@ node_modules/
 # その他
 *.log
 .DS_Store
-
-SSL_CA_PATH='DigiCertGlobalRootG2.crt.pem' # ルート証明書のパス（同じディレクトリに置く）
